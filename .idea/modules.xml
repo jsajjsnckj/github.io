@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GithubJavaEE/GithubJavaEE.iml" filepath="$PROJECT_DIR$/GithubJavaEE/GithubJavaEE.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/github.io.iml" filepath="$PROJECT_DIR$/.idea/github.io.iml" />
     </modules>
   </component>
